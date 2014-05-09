@@ -1,7 +1,7 @@
 ﻿// -------------------------------------------------------------------------------------------------
 // warnings.cs 0.0.1
 //
-// Voice warnigns using Windows text to speech api.
+// Voice warnings using Windows text to speech api.
 // Copyright (C) 2014 Iván Atienza
 //
 // This program is free software: you can redistribute it and/or modify
